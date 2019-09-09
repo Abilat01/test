@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DanyaTest</string>
+    <string name="title_activity_avtor">AvtorActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

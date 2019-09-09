@@ -27,7 +27,6 @@ CheckBox cnb;
     // создание меню
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // TODO Auto-generated method stub
         // добавляем пункты меню
         menu.add(0, 1, 0, "add");
         menu.add(0, 2, 0, "edit");
