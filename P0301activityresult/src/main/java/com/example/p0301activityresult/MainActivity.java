@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (resultCode == RESULT_OK) {
             switch (requestCode) {
                 case REQUEST_CODE_COLOR:
-                    int color = data.getIntExtra("color", Color.YELLOW);
+                    int color = data.getIntExtra("color", Color.GREEN);
                     tvText.setTextColor(color);
                     break;
                 case REQUEST_CODE_ALIGN:
